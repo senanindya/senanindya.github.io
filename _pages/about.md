@@ -1,0 +1,42 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Greetings!!!
+
+<div style="text-align: justify"> 
+
+I am Anindya Sen. I have completed B.Tech. in Computer Science and Engineering from <a href="https://vit.ac.in/">Vellore Institute of Technology (VIT),Vellore</a>, Tamil Nadu, India.
+My primary research interest lies in Machine Learning Applications, Computer Vision, and Image Processing.<br /><br /></div>
+ 
+<b> I am open to any Research Collaborations in the field of *Computer Vision*, *Image Analysis*, and *Vision Security*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="mailto:senanindya5@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
+
+**For additional information, please see the [CV](https://anindyasen.github.io/cv/) and [publications](https://anindyasen.github.io/publications/).**
+
+-----------
+
+<!---
+# Activities 
+* <span style="color:Blue"> [March 3, 2021] </span> - One paper won the [<span style ="color:Red">**3rd Best Paper Award**</span>](https://tonmoy-hossain.github.io/files/ICCIT-Best-Paper.pdf) at [ICCIT 2020](http://iccit.org.bd/2020/).
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+-->
+-----------
+Skills
+======
+* **Programming Languages/Platforms:** Python, C++, MATLAB, LaTeX, Arduino
+* **Machine Learning Libraries/Platforms:** Tensorflow, PyTorch, Keras, OpenCV, Numpy, Scikit-learn, Weka
+* **Web Languages/Platforms/Frameworks:** HTML, CSS, Javascript, React, jQuery, Bootstrap, Django, Wordpress, Kajabi, Shopify, Clickfunnels
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
