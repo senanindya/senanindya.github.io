@@ -15,9 +15,9 @@ redirect_from:
 
 
 * Vellore Institute of Technology (VIT),Vellore, Tamil Nadu, India.
-* **Capstone Project Title:** ["Decentralized Healthcare Network Platform"](https://anindyasen.github.io/files/Capstone Project Report Final.pdf) 
-* **Project Presentation:** [Presentation](https://anindyasen.github.io/files/Capstone Final Review Presentation.pdf) 
-* **Poster:**[Poster](https://anindyasen.github.io/files/Capstone Final Poster.pdf)
+* **Capstone Project Title:** ["Decentralized Healthcare Network Platform"](https://senanindya.github.io/files/Capstone Project Report Final.pdf) 
+* **Project Presentation:** [Presentation](https://senanindya.github.io/files/Capstone Final Review Presentation.pdf) 
+* **Poster:**[Poster](https://senanindya.github.io/files/Capstone Final Poster.pdf)
 * **Supervisor:** [Krishnamoorthy A](https://research.vit.ac.in/researcher/krishnamoorthy-a/publications), Assistant Professor(Senior), School of Computer Science and Engineering, VIT Vellore, India.
 
 <br /> 
