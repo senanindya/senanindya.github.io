@@ -19,15 +19,18 @@ My primary research interest lies in Machine Learning Applications, Computer Vis
 
 **For additional information, please see the [CV](https://senanindya.github.io/cv/) and [publications](https://senanindya.github.io/publications/).**
 
------------
 
 <!---
+-----------
+
 # Activities 
 * <span style="color:Blue"> [March 3, 2021] </span> - One paper won the [<span style ="color:Red">**3rd Best Paper Award**</span>](https://tonmoy-hossain.github.io/files/ICCIT-Best-Paper.pdf) at [ICCIT 2020](http://iccit.org.bd/2020/).
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
--->
 -----------
+-->
+
+
 Skills
 ======
 * **Programming Languages/Platforms:** Python, C++, MATLAB, LaTeX, Arduino
