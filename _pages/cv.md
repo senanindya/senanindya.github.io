@@ -17,14 +17,14 @@ Vellore, Tamil Nadu, India.<br />
 
 
 
-[Download Full CV](https://anindyasen.github.io/files/AnindyaSenCV.pdf) [<ins>*Last Updated on September 25, 2021*</ins>]
+[Download Full CV](https://senanindya.github.io/files/AnindyaSenCV.pdf) [<ins>*Last Updated on September 25, 2022*</ins>]
 
 ## Contact Me
 -------------
 
 **Email:** senanindya [at] gmail [dot] com<br /> 
  <br /> 
-**Website:** [https://anindyasen.github.io](https://anindyasen.github.io/) <br />
+**Website:** [https://anindyasen.github.io](https://senanindya.github.io/) <br />
 
 You can also find me on [Google Scholar](https://scholar.google.com/citations?user=AempadUAAAAJ&hl=en&authuser=1), [Github](https://github.com/senanindya).
 
