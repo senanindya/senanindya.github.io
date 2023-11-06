@@ -17,7 +17,7 @@ My primary research interest lies in Machine Learning Applications, Computer Vis
  
 <b> I am open to any Research Collaborations in the field of *Computer Vision*, *Image Analysis*, and *Vision Security*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="mailto:senanindya5@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
 
-**For additional information, please see the [CV](https://anindyasen.github.io/cv/) and [publications](https://anindyasen.github.io/publications/).**
+**For additional information, please see the [CV](https://senanindya.github.io/cv/) and [publications](https://senanindya.github.io/publications/).**
 
 -----------
 
