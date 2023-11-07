@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/senanindya/senanindya.github.io/main/favicon.ico">
 
 Hello!<br />
 I am Anindya Sen. I have completed B.Tech. in Computer Science and Engineering from <a href="https://vit.ac.in/">Vellore Institute of Technology (VIT),Vellore</a>, Tamil Nadu, India.
