@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[Download Full CV](https://senanindya.github.io/files/AnindyaSenCV.pdf) [<ins>*Last Updated on September 25, 2022*</ins>]
 
 ## Education 
 -------------
@@ -17,12 +18,12 @@ Vellore, Tamil Nadu, India.<br />
 
 
 
-[Download Full CV](https://senanindya.github.io/files/AnindyaSenCV.pdf) [<ins>*Last Updated on September 25, 2022*</ins>]
+
 
 ## Contact Me
 -------------
 
-**Email:** senanindya [at] gmail [dot] com<br /> 
+**Email:** senanindya5 [at] gmail [dot] com<br /> 
  <br /> 
 **Website:** [https://anindyasen.github.io](https://senanindya.github.io/) <br />
 
