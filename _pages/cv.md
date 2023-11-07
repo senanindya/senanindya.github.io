@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download Full CV](https://senanindya.github.io/files/AnindyaSenCV.pdf) [<ins>*Last Updated on September 25, 2022*</ins>]
+[View my latest CV here](https://senanindya.github.io/files/AnindyaSenCV.pdf). [<ins>*Last Updated on September 25, 2022*</ins>]
 
 ## Education 
 -------------
