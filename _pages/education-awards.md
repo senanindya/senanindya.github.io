@@ -1,4 +1,3 @@
-<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/senanindya/senanindya.github.io/main/favicon.ico">
 ---
 layout: archive
 title: "Education"
@@ -7,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/senanindya/senanindya.github.io/main/favicon.ico">
 
 # Undergraduate
 ----------------
