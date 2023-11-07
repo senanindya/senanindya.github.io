@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /wordpress/cv/
 ---
-
+<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/senanindya/senanindya.github.io/main/favicon.ico">
 
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
