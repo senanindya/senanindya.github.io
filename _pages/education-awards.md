@@ -20,7 +20,7 @@ redirect_from:
 <br />
 
 
-# Higher-Secondary 
+# Higher-Secondary (HSC)
 ----------------
 **Institute: [Chittagong College, Chattogram, Bangladesh](https://ctgcollege.gov.bd/)**
 * **Major**: Science
