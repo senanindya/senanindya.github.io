@@ -31,6 +31,6 @@ author_profile: true
 * Mock Interview Portal(*Language: Javascript,MongoDB,HTML*).
 * Telemedicine and Monitoring App for Elderly People(*Designed the system architecture, Cost analysis, Marketing strategies and building a prototype of the android app for the course "Lean Start-up Management"*).
 * Servo Motor Speed Monitor(*Using Proteus for simulation and Blynk Server*).
-* Offensive Language Identification System(*Used Flask,JS for the web app,trained and tested the OLID dataset on Naive Bayes Model,LSTM*)
+* [Offensive Language Identification System(*Used Flask,JS for the web app,trained and tested the OLID dataset on Naive Bayes Model,LSTM*)](https://github.com/senanindya/Offensive-Language-Identification-System)
 
 __________________________________________________
