@@ -15,7 +15,6 @@ redirect_from:
 <br/>
 
 <embed src="https://senanindya.github.io/files/AnindyaSenCV.pdf" type="application/pdf" width="100%" />
-[View my latest CV here](https://senanindya.github.io/files/AnindyaSenCV.pdf). [<ins>*Last Updated on September 25, 2022*</ins>]
 
 
 <!--- **Address:**
