@@ -1,33 +1,21 @@
 ---
 layout: archive
-title: "Curriculam Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /wordpress/cv/
 ---
+
+
+{% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
+
+**If you are unable to view the embedded PDF below, you can [download it from here](https://senanindya.github.io/files/AnindyaSenCV.pdf).**
+<br/>
+
+<embed src="https://senanindya.github.io/files/AnindyaSenCV.pdf" type="application/pdf" width="100%" />
 [View my latest CV here](https://senanindya.github.io/files/AnindyaSenCV.pdf). [<ins>*Last Updated on September 25, 2022*</ins>]
-
-## Education 
--------------
-
-<b>B.Tech. in Computer Science and Engineering</b><br />
-Vellore Institute of Technology,<br />
-Vellore, Tamil Nadu, India.<br />
-<i style='color:#000099;'>**July 2018 - August 2022**</i>
-
-
-
-
-
-## Contact Me
--------------
-
-**Email:** senanindya5 [at] gmail [dot] com<br /> 
- <br /> 
-**Website:** [https://senanindya.github.io](https://senanindya.github.io/) <br />
-
-You can also find me on [Google Scholar](https://scholar.google.com/citations?user=AempadUAAAAJ&hl=en&authuser=1), [Github](https://github.com/senanindya).
 
 
 <!--- **Address:**
