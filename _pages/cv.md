@@ -25,7 +25,7 @@ Vellore, Tamil Nadu, India.<br />
 
 **Email:** senanindya5 [at] gmail [dot] com<br /> 
  <br /> 
-**Website:** [https://anindyasen.github.io](https://senanindya.github.io/) <br />
+**Website:** [https://senanindya.github.io](https://senanindya.github.io/) <br />
 
 You can also find me on [Google Scholar](https://scholar.google.com/citations?user=AempadUAAAAJ&hl=en&authuser=1), [Github](https://github.com/senanindya).
 
