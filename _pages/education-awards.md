@@ -15,19 +15,25 @@ redirect_from:
 * **Final Semester Capstone Project Title:** ["Decentralized Healthcare Network Platform"](https://senanindya.github.io/files/Capstone Project Report Final.pdf) 
 * **Project Presentation:** [Presentation](https://senanindya.github.io/files/Capstone Final Review Presentation.pdf) 
 * **Poster:**[Poster](https://senanindya.github.io/files/Capstone Final Poster.pdf)
-* **Supervisor:** [Krishnamoorthy A](https://research.vit.ac.in/researcher/krishnamoorthy-a/publications), Assistant Professor(Senior), School of Computer Science and Engineering, VIT Vellore, India. \\
+* **Supervisor:** [Krishnamoorthy A](https://research.vit.ac.in/researcher/krishnamoorthy-a/publications), Assistant Professor(Senior), School of Computer Science and Engineering, VIT Vellore, India.
+<br /> 
+<br />
 
 
 # Higher-Secondary 
 ----------------
 **Institute: [Chittagong College, Chattogram, Bangladesh](https://ctgcollege.gov.bd/)**
-* **Major**: Science\\
+* **Major**: Science
+<br /> 
+<br />
 
 
 # Secondary School (SSC)
 ----------------
 **Institute: [Collegiate School, Chittagong](https://ctgcs.edu.bd/)**
-* **Major**: Science\\
+* **Major**: Science
+<br /> 
+<br />
 
 
 
