@@ -9,13 +9,10 @@ redirect_from:
 ---
 
 Greetings!!!
-
-<div style="text-align: justify"> 
-
 I am Anindya Sen. I have completed B.Tech. in Computer Science and Engineering from <a href="https://vit.ac.in/">Vellore Institute of Technology (VIT),Vellore</a>, Tamil Nadu, India.
 My primary research interest lies in Machine Learning Applications, Computer Vision, and Image Processing.<br /><br /></div>
  
-<b> I am open to any Research Collaborations in the field of *Computer Vision*, *Image Analysis*, and *Vision Security*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="mailto:senanindya5@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
+<b> I am open to any Research Collaborations in the field of *Large Language Models*, *Medical Imaging* and *Chat bots*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="mailto:senanindya5@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
 
 **For additional information, please see the [CV](https://senanindya.github.io/cv/) and [publications](https://senanindya.github.io/publications/).**
 
