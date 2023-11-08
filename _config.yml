@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anindya Sen"
+title                    : "Personal Website of Anindya Sen"
 title_separator          : "-"
-name                     : &name "Home"
+name                     : &name "Anindya Sen"
 description              : &description "personal description"
 url                      : https://senanindya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
