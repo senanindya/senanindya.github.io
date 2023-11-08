@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Anindya Sen"
 title_separator          : "-"
-name                     : &name "Anindya Sen"
+name                     : &name "Home"
 description              : &description "personal description"
 url                      : https://senanindya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
