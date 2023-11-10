@@ -72,11 +72,11 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics:
-  provider               :  "custom" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :   G-KPEH83M94G
-
+#analytics:
+#  provider               :  "custom" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          :   G-KPEH83M94G
+gtag: "G-KPEH83M94G"
 
 # Site Author
 author:
