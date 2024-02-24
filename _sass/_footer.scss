@@ -1,19 +1,39 @@
+.page__footer {
+  display: none; /* Hide the footer */
+}
+
+/* If you prefer to keep the space but remove the sticky footer fix */
+.page__footer.sticky-footer {
+  position: static; /* Change position to static */
+  bottom: auto; /* Remove bottom position */
+  height: auto; /* Remove fixed height */
+}
+
+/* Remove margin-top */
+.page__footer.sticky-footer {
+  margin-top: 0;
+}
+
+
 /* ==========================================================================
    FOOTER
-   ========================================================================== */
+   ========================================================================== 
+ 
 
 .page__footer {
+  display: none;
+ 
   @include clearfix;
   float: left;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
   clear: both;
-  /* sticky footer fix start */
+  /* sticky footer fix start 
   position: absolute;
   bottom: 0em;
   height: auto;
-  /* sticky footer fix end */
+  /* sticky footer fix end 
   margin-top: 3em;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
@@ -89,4 +109,5 @@
       white-space: nowrap;
     }
   }
-}
+} 
+*/
