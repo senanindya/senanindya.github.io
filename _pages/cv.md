@@ -5,6 +5,16 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /wordpress/cv/
+layout: default
+scripts:
+  - src: "https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"
+  - |
+    <script>
+      function addDarkmodeWidget() {
+        new Darkmode().showWidget();
+      }
+      window.addEventListener('load', addDarkmodeWidget);
+    </script>
 ---
 
 <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/senanindya/senanindya.github.io/main/favicon.ico">
