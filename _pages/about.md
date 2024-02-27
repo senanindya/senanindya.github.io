@@ -34,8 +34,6 @@ scripts:
 </head>
 <body>
 
-<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/senanindya/senanindya.github.io/main/favicon.ico">
-
 Hello!<br />
 I am **Anindya Sen**. I have completed B.Tech. in Computer Science and Engineering from <a href="https://vit.ac.in/">Vellore Institute of Technology (VIT),Vellore</a>, Tamil Nadu, India.
 My primary research interest lies in Machine Learning Applications, Computer Vision, and Image Processing.<br /><br />
