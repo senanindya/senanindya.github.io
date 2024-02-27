@@ -8,14 +8,32 @@ redirect_from:
   - /about.html
 scripts:
   - src: "https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"
-  - |
-    <script>
+  - inline: |
       function addDarkmodeWidget() {
         new Darkmode().showWidget();
       }
       window.addEventListener('load', addDarkmodeWidget);
-    </script>
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <!-- Include the dark mode script tags here -->
+    {% if page.scripts %}
+        {% for script in page.scripts %}
+            <script src="{{ script.src | relative_url }}"></script>
+            {% if script.inline %}
+                <script>{{ script.inline | strip_newlines }}</script>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+    <!-- Link to favicon -->
+    <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/senanindya/senanindya.github.io/main/favicon.ico">
+</head>
+<body>
+
 <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/senanindya/senanindya.github.io/main/favicon.ico">
 
 Hello!<br />
