@@ -9,16 +9,4 @@ author_profile: true
 <br/>
 
 {% include base_path %}
-<embed src="https://senanindya.github.io/files/AnindyaSenCV.pdf" type="application/pdf"  width="600px" height="800px/>
-<!--- **Address:**
-<address>
-Department of Computer Science <br /> 
-My Uni <br /> 
-Road <br />
-State <br /> 
-</address> 
-<br /> 
-<iframe src="" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
-
-
-__________________________________________________________
+<embed src="{{ site.baseurl }}/files/AnindyaSenCV" type="application/pdf" width="600px" height="800px"/>
