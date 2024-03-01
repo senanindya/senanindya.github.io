@@ -98,7 +98,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "senanindya"
+  links:
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/senanindya"
+  # github           : "senanindya"
   google_plus      :
   keybase          :
   instagram        :
