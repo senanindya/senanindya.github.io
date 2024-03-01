@@ -9,4 +9,4 @@ author_profile: true
 <br/>
 
 {% include base_path %}
-<embed src="{{ site.baseurl }}/files/AnindyaSenCV" type="application/pdf" width="600px" height="800px"/>
+<embed src="https://senanindya.github.io/files/AnindyaSenCV.pdf" type="application/pdf" width="600px" height="800px"/>
