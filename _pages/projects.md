@@ -5,28 +5,23 @@ permalink: /projects/
 author_profile: true
 ---
 <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/senanindya/senanindya.github.io/main/favicon.ico">
-## Ongoing Projects
-----------------
-
-### [2020 - *Current*]
------------
 
 
-## Undergraduate Course Projects [2018-2022]
+## Undergraduate Course Projects
 ----------------
 * Decentralized Healthcare Network Platform (*Used state-of-the-art blockchain technology, we have built a totally decentralized system in which data is saved in our proprietary file system called IHFS, which is entirely protected from data security and integrity concerns*).
-* Real-time 3D Product Display and Demo using ARCore (*Language: Java, implemented Augmented Reality (AR) in an Android App*).
-* Efficient Image Encryption Algorithm (*Language: Python*).
-* [Comparing word search technique between Sequential and Parallel Method (*Language: C, OpenMP*)](https://drive.google.com/file/d/1QCo7XpEx-v1kOsv3Ogmwrfii547acZPH/view?usp=sharing).
-* [“Object” a Web Based Object Detection Site (*Language: TensorFlow.js*)](https://github.com/senanindya/IWP-ObjectDetection-TensorFlow.js).
-* Detection of Motorcyclists and Construction worker without Helmet from Live Surveillance Video (*Using Convolutional Neural Network(CNN): YOLO*).
-* Detecting and Tracking Irregular Objects Based on Their Shape and Color In Real-Time (*Using OpenCV, NumPy*).
-* Smart Home Automation System (*Using 8086 microprocessor*).
-* Garage Management System (*Using the concept of Deadlock in Operating Systems*).
-* Pharmacy Management System (*Language: Php,MySQL,HTML*).
+* Real-time 3D Product Display and Demo using ARCore (*Developed an Android application using Java and ARCore to enable real-time 3D product visualization in augmented reality. Implemented markerless AR to place and interact with virtual objects in a real- world environment. Designed an interactive user interface for seamless product demonstration, enhancing user engagement and visualization experience.*).
+* Efficient Image Encryption Algorithm (*Developed a Python-based image encryption system using matrix manipulation techniques to transform pixel values and secure image data. Implemented reversible encryption–decryption processes ensuring data integrity while maintaining low computational overhead.*).
+* [Comparing word search technique between Sequential and Parallel Method (*Developed and evaluated word search algorithms for large text datasets using C/C++ and OpenMP, implementing both sequential and multithreaded approaches. Designed a parallel solution to process multiple files concurrently, significantly reducing execution time (1.34s to 0.10s). Analyzed performance, scalability, and efficiency, demonstrating clear speedup and improved resource utilization in the parallel model.*)](https://drive.google.com/file/d/1QCo7XpEx-v1kOsv3Ogmwrfii547acZPH/view?usp=sharing).
+* [“Object” a Web Based Object Detection Site (*Developed a real-time object detection web application using TensorFlow.js and the pre-trained COCO-SSD model. Implemented client-side inference for detecting multiple objects in images/video directly in the browser. Designed an interactive UI using JavaScript, HTML, and CSS for live detection with low latency and efficient performance.*)](https://senanindya.github.io/IWP-ObjectDetection-TensorFlow.js/).
+* Detection of Motorcyclists and Construction worker without Helmet from Live Surveillance Video (*Developed a real-time surveillance system using YOLO-based CNN models to detect individuals without helmets in live video streams. Implemented object detection to identify motorcyclists and construction workers, followed by classification to determine helmet usage.*).
+* Detecting and Tracking Irregular Objects Based on Their Shape and Color In Real-Time (*Developed a computer vision system to detect and track irregularly shaped objects in real time using OpenCV and NumPy. Implemented color-based segmentation and contour detection to identify objects, followed by tracking across video frames.*).
+* Smart Home Automation System (*Developed a basic home automation system on a breadboard using the 8086 microprocessor. Implemented core concepts such as low-level programming and I/O interfacing to control simple devices. Demonstrated practical understanding of microprocessor architecture and hardware-level system design.*).
+* Garage Management System (*Developed a garage management system in C++ to simulate resource allocation and prevent deadlock scenarios in operating systems. Implemented synchronization and deadlock avoidance techniques to manage vehicle servicing efficiently. Demonstrated concepts of resource sharing and process coordination.*).
+* Pharmacy Management System (*Developed a database-driven web application using PHP, MySQL, and HTML to manage pharmacy operations. Implemented features for inventory management, billing and record keeping, enabling efficient tracking of medicines and transactions. Designed a structured database to ensure data consistency and reliable system performance.*).
 * Mock Interview Portal (*Language: Javascript,MongoDB,HTML*).
-* Telemedicine and Monitoring App for Elderly People (*Designed the system architecture, Cost analysis, Marketing strategies and building a prototype of the android app for the course "Lean Start-up Management"*).
-* Servo Motor Speed Monitor (*Using Proteus for simulation and Blynk Server*).
-* [Offensive Language Identification System (*Used Flask,JS for the web app,trained and tested the OLID dataset on Naive Bayes Model,LSTM*)](https://github.com/senanindya/Offensive-Language-Identification-System).
+* Telemedicine and Monitoring App for Elderly People (*Conceptualized a telemedicine and remote monitoring solution as part of a Lean Startup project, focusing on elderly care. Designed system architecture, conducted cost analysis and developed marketing and go-to-market strategies. Created a detailed blueprint and prototype design to demonstrate feasibility and user workflow.*).
+* [Servo Motor Speed Monitor (*Developed an IoT-based servo motor speed monitoring system using Proteus for circuit simulation and Blynk for real-time data visualization. Implemented virtual sensors and microcontroller logic to measure motor speed and transmit data to a cloud interface for remote monitoring and control.*)](https://drive.google.com/file/d/1RFC6pAluzGtdUZBfvLBRQaAy4vUyVzdx/view?usp=sharing).
+* [Offensive Language Identification System (*Developed a web-based NLP application to detect offensive language using the OffensEval (SemEval 2019 Task 6) dataset. Built the system with Flask (backend) and HTML, CSS, and JavaScript (frontend),allowing users to submit text or upload files for analysis. Implemented and compared Naive Bayes and LSTM models, achieving 71% and 75% accuracy respectively. Evaluated performance trade-offs between speed (0.01s for Naive Bayes) and accuracy (LSTM), improving overall model selection and system efficiency*)](https://github.com/senanindya/Offensive-Language-Identification-System).
 
 __________________________________________________
