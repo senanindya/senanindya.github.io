@@ -10,6 +10,7 @@
  *
 */
 
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -39,3 +40,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.author__urls i {
+  color: #ffffff !important;
+}
+
+.author__urls a:hover i {
+  color: #ffffff !important;
+}
