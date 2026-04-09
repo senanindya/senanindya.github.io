@@ -9,7 +9,6 @@ redirect_from:
 ---
 <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/senanindya/senanindya.github.io/main/favicon.ico">
 
-Hello!<br />
 I am **Anindya Sen**. I have completed B.Tech. in Computer Science and Engineering from <a href="https://vit.ac.in/">Vellore Institute of Technology (VIT),Vellore</a>, Tamil Nadu, India.
 My primary research interest lies in Machine Learning Applications, Computer Vision, and Image Processing.<br /><br />
  
@@ -28,9 +27,9 @@ Please reach out if you have anything to discuss or want to work together.<a hre
 
 Skills
 ======
-* **Programming Languages/Platforms:** Python, C++, MATLAB, LaTeX, Arduino
-* **Machine Learning Libraries/Platforms:** Tensorflow, PyTorch, Keras, OpenCV, NumPy, Scikit-learn, NLTK, Pandas
-* **Web Languages/Platforms/Frameworks:** HTML, CSS, Javascript, React, jQuery, Bootstrap, Django.
+* **Programming Languages:** Python, C and C++, Java.
+* **Machine Learning Libraries:** Tensorflow, PyTorch, Keras, OpenCV, NumPy, Scikit-learn, NLTK, Pandas.
+* **Web Languages/Frameworks:** HTML, CSS, JavaScript, React, jQuery, Bootstrap, Django, Flask.
 
 Publications
 ======
