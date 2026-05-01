@@ -49,28 +49,52 @@
   color: #ffffff !important;
 }
 
-/* Follow button dropdown dark mode fix */
-.author__urls-wrapper .author__urls {
-    background: #1e1e2f !important;   /* dark background */
-    border: 1px solid #444 !important;
-}
-
-.author__urls-wrapper .author__urls::before {
-    border-bottom-color: #1e1e2f !important; /* top arrow color */
-}
-
-.author__urls-wrapper .author__urls a {
-    color: #f5f5f5 !important; /* readable text */
-}
-
-.author__urls-wrapper .author__urls a:hover {
-    background: #2d2d44 !important;
-    color: #ffffff !important;
-}
-
-/* Follow button itself */
+/* Default Follow button (mobile) */
 .author__urls-wrapper button {
-    background: #2d2d44 !important;
-    color: #ffffff !important;
-    border: 1px solid #555 !important;
+    background: #ffffff !important;
+    color: #222 !important;
+    border: 1px solid #ccc !important;
+}
+
+/* Mobile dropdown only */
+@media screen and (max-width: 768px) {
+
+    /* Dark dropdown box */
+    .author__urls-wrapper .author__urls {
+        background: #1e1e2f !important;
+        border: 1px solid #444 !important;
+    }
+
+    /* Dropdown arrow */
+    .author__urls-wrapper .author__urls::before {
+        border-bottom-color: #1e1e2f !important;
+    }
+
+    /* Dropdown links */
+    .author__urls-wrapper .author__urls a {
+        color: #ffffff !important;
+    }
+
+    /* Hover effect */
+    .author__urls-wrapper .author__urls a:hover {
+        background: #2d2d44 !important;
+        color: #ffffff !important;
+    }
+}
+
+/* Desktop sidebar stays transparent / original */
+@media screen and (min-width: 769px) {
+    .author__urls {
+        background: transparent !important;
+        border: none !important;
+    }
+
+    .author__urls a {
+        color: inherit !important;
+        background: transparent !important;
+    }
+
+    .author__urls-wrapper button {
+        display: none !important; /* Follow button hidden on desktop if theme already shows links */
+    }
 }
