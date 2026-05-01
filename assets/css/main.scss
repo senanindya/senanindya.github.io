@@ -98,3 +98,42 @@
         display: none !important; /* Follow button hidden on desktop if theme already shows links */
     }
 }
+/* Mobile hamburger menu dark mode */
+@media screen and (max-width: 768px) {
+
+    /* Burger dropdown container */
+    .greedy-nav .hidden-links {
+        background: #1e1e2f !important;
+        border: 1px solid #444 !important;
+    }
+
+    /* Dropdown arrow */
+    .greedy-nav .hidden-links::before {
+        border-bottom-color: #1e1e2f !important;
+    }
+
+    /* Menu links */
+    .greedy-nav .hidden-links a {
+        color: #ffffff !important;
+        background: transparent !important;
+        border-bottom: 1px solid #333 !important;
+    }
+
+    /* Hover / tap */
+    .greedy-nav .hidden-links a:hover {
+        background: #2d2d44 !important;
+        color: #ffffff !important;
+    }
+
+    /* Burger button */
+    .greedy-nav .navicon,
+    .greedy-nav .close {
+        color: #ffffff !important;
+    }
+
+    /* Burger button background */
+    .greedy-nav .greedy-nav__toggle {
+        background: #a8e6e6 !important; /* keep your cyan button */
+        border: none !important;
+    }
+}
